@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "pfayjlu-pe57149",
+  "user"      : "DEEPAKJAIN2004",
+  "password"  : "Jai12rani!",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
 }
